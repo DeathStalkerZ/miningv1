@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u APE:0xa1cCc03ba75990D5fE95846A20B9a5fDDD544d70.unmineable_worker_gvpdcdn -p x 
